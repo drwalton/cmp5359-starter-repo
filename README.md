@@ -1,4 +1,5 @@
-# CMP5359 Computer Graphics ## Coursework and Lab Starter Repo
+# CMP5359 Computer Graphics 
+## Coursework and Lab Starter Repo
 ### Using this repo
 
 This repo should be used for all of your work for the CMP5359 Computer Graphics module. It is where you should work on the labs, and also submit your final coursework by creating a GitHub release.
